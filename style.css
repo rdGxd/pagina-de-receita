@@ -1,12 +1,9 @@
 @charset "UTF-8";
 
 * {
-  margin: 0 auto;
+  margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-}
-
-html {
   font-family: 'Roboto', sans-serif;
 }
 
@@ -27,7 +24,7 @@ body {
   margin-bottom: 5px;
 }
 
-div {
+main {
   margin-right: 180px;
   margin-left: 180px;
   border-radius: 5px;
